@@ -11,6 +11,9 @@ from matplotlib.lines import Line2D
 st.set_page_config(page_title="Coffee Market Dashboard", layout="wide")
 st.markdown("<style>.block-container { padding-top: 2rem; }</style>", unsafe_allow_html=True)
 
+st.markdown("### ☕ Coffee Price Explorer (Jumbo Supermarket)")
+st.markdown("This interactive tool lets you explore and analyze coffee product pricing — filtered by type, brand, and price — using data scraped from the Dutch supermarket JUMBO.")
+
 # Set global font sizes for plots
 plt.rcParams.update({
     'font.size': 4,
