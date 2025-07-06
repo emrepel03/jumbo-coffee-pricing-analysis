@@ -1,8 +1,8 @@
-A data science project investigating coffee product pricing using web scraping, clustering, and ML — presented through an interactive dashboard.
+A data science project investigating coffee product pricing using web scraping, clustering, SQL, and ML — presented through an interactive dashboard.
 
-# ☕ Coffee Market Price Intelligence
+# ☕ Jumbo Coffee Pricing Analysis
 
-An end-to-end data science project exploring and visualizing coffee prices from Dutch supermarket “JUMBO”. This project combines real-world data scraping, SQL-based exploration, advanced data processing, exploratory analysis, machine learning, and a fully interactive dashboard to deliver actionable insights in a real consumer market.
+An end-to-end data science project exploring and visualizing coffee prices from Dutch supermarket "JUMBO". This project combines real-world data scraping, advanced data processing, exploratory analysis, SQL, machine learning, and a fully interactive dashboard to deliver actionable insights in a real consumer market.
 
 ---
 
@@ -24,10 +24,10 @@ An end-to-end data science project exploring and visualizing coffee prices from 
 ## 🗂️ Project Structure
 
 ```
-📁 supermarket-inflation
+📁 jumbo-coffee-pricing-analysis
 ├── data/                          # Cleaned dataset (CSV)
 ├── dashboard/                     # Streamlit dashboard app
-├── images/                        # Saved plots for reporting or presentation
+├── img/                           # Saved plots for reporting or presentation
 ├── scraper.py                     # Custom web scraper
 ├── clean_data.py                  # Data cleaning script
 ├── normalize_brands.py            # Brand name normalization
