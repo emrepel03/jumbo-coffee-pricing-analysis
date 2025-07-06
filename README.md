@@ -5,7 +5,7 @@ A data science project investigating coffee product pricing using web scraping, 
 **Explore how coffee prices vary across types and brands in Dutch supermarkets.**  
 An end-to-end data science project with real scraping, EDA, clustering, ML, and an interactive dashboard.
 
-🔗 Try the Dashboard Live: [Streamlit App](https://emrepel03-jumbo-coffee.streamlit.app)
+🔗 Try the Dashboard Live: [Streamlit App][(https://jumbo-coffee-pricing-analysis-gnel9nyvr3dtdbcasxclh9.streamlit.app/)]
 
 ---
 
