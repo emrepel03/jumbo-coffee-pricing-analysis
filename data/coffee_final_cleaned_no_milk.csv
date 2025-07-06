@@ -1,0 +1,224 @@
+name;price;page;quantity;unit;unit_price;type;is_outlier;brand
+Jumbos Beste Koffie Snelfiltermaling Aroma 2 x 500 g;12.99;1.0;1000.0;g;0.01299;filter;False;jumbo
+Lavazza Espresso Lungo koffiecups 30st;12.79;1.0;30.0;st;0.0609047619047619;cups;False;lavazza
+Douwe Egberts Aroma Rood Filterkoffie 500 g;8.15;1.0;500.0;g;0.0163;filter;False;douwe egberts
+Lavazza Espresso Classico koffiecups 30st;12.79;1.0;30.0;st;0.0609047619047619;cups;False;lavazza
+Douwe Egberts Aroma Rood Dubbelpak Filterkoffie 2 x 500 g;15.99;1.0;1000.0;g;0.01599;filter;False;douwe egberts
+NESCAFA Dolce Gusto, Koffie Lungo, 16 capsules, 89.6 gr;5.99;1.0;16.0;capsules;0.0534821428571428;capsule;False;nescafe
+Lavazza Espresso Maestro Ristretto Koffiecups 10 Stuks;4.89;1.0;10.0;st;0.0698571428571428;cups;False;lavazza
+La Place Koffiebonen Espresse Arabica 4 x 1000 g;63.16;1.0;4000.0;g;0.01579;beans;False;la place
+Jumbos roodmerk filterkoffie 6 x 2 x 500g;74.94;1.0;1000.0;g;0.0749399999999999;filter;False;jumbo
+Nescafe Dolce Gusto Cappuccino Koffiecups 3 x 30 Stuks;26.97;1.0;90.0;st;0.0428095238095238;capsule;False;nescafe
+Jumbos beste koffiebonen aroma 4 x 1kg;47.16;1.0;4000.0;g;0.0117899999999999;beans;False;jumbo
+Jumbo Aroma Oploskoffie 200 g;4.99;1.0;200.0;g;0.02495;instant;False;jumbo
+NESCAFA Dolce Gusto, Koffie Lungo Intenso, 16 capsules, 144 gr;5.99;1.0;16.0;capsules;0.0534821428571428;capsule;False;nescafe
+Jumbos Beste Koffie Snelfiltermaling Decaf 500 g;6.99;1.0;500.0;g;0.01398;filter;False;jumbo
+Kanis & Gunnink Regular Filterkoffie 500 g;6.55;1.0;500.0;g;0.0130999999999999;filter;False;kanis en gunnink
+Jumbos Koffiepads Classic 56 Stuks;6.99;1.0;56.0;st;0.0178316326530612;pads;False;jumbo
+Jumbo Decaf Oploskoffie 100 g;2.75;2.0;100.0;g;0.0275;instant;False;jumbo
+Jumbos Beste Koffiebonen Aroma 1 kg;12.99;2.0;1000.0;g;0.01299;beans;False;jumbo
+Jumbos Beste Koffiebonen Dark Roast 1 kg;12.99;2.0;1000.0;g;0.01299;beans;False;jumbo
+Douwe Egberts Aroma Rood Koffiebonen Voordeelpak 1000 g;15.99;2.0;1000.0;g;0.01599;beans;False;douwe egberts
+Jumbos Beste Koffiebonen Espresso 4 x 1 kg;55.96;2.0;4000.0;g;0.01399;beans;False;jumbo
+Kanis & Gunnink Medium Koffiebonen 1 kg;10.99;2.0;1000.0;g;0.01099;beans;False;kanis en gunnink
+NescafA(c) Original Oploskoffie 200 g;7.99;2.0;200.0;g;0.03995;instant;False;nescafe
+Jumbos Beste Koffiebonen Espresso 1 kg;13.99;2.0;1000.0;g;0.01399;beans;False;jumbo
+Jumbos Lungo Originale Koffiecups 40 Stuks;8.69;2.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Jumbos Beste Koffiebonen Espresso Intenso 1 kg;12.99;2.0;1000.0;g;0.01299;beans;False;jumbo
+La Place Koffiebonen Espresso 1 kg;15.79;2.0;1000.0;g;0.01579;beans;False;la place
+Douwe Egberts Espresso Koffiebonen Voordeelpak 1000 g;15.49;2.0;1000.0;g;0.01549;beans;False;douwe egberts
+Jumbos Beste Koffiebonen Crema 1 kg;12.99;2.0;1000.0;g;0.01299;beans;False;jumbo
+La Place Koffiebonen Originale 1KG;15.79;2.0;1000.0;g;0.01579;beans;False;la place
+La Place Koffiebonen Cappuccino 1 kg;15.79;2.0;1000.0;g;0.01579;beans;False;la place
+NESCAFA Dolce Gusto, Koffie Grande , 16 capsules, 136 gr;5.99;2.0;16.0;capsules;0.0534821428571428;capsule;False;nescafe
+Jumbos Lungo Intenso Koffiecups 100 Stuks;18.79;3.0;100.0;st;0.0268428571428571;cups;False;jumbo
+Jumbos Koffiepads Decaf 36 Stuks;4.99;3.0;36.0;st;0.0198015873015873;pads;False;jumbo
+Smit & Dorlas Dark Roast Koffiebonen 500 g;9.79;3.0;500.0;g;0.0195799999999999;beans;False;smit and dorlas
+Jumbos Beste Koffie Snelfiltermaling Goud 500 g;6.99;3.0;500.0;g;0.01398;filter;False;jumbo
+Jumbos Koffiepads Extra Dark 56 Stuks;6.99;3.0;56.0;st;0.0178316326530612;pads;False;jumbo
+NESCAFA Dolce Gusto, Koffie Espresso Intenso, 16 capsules, 112 gr;5.99;3.0;16.0;capsules;0.0534821428571428;capsule;False;nescafe
+Jumbos Lungo Impressa Koffiecups 40 Stuks;8.69;3.0;40.0;st;0.0310357142857142;cups;False;jumbo
+La Place Koffiebonen Originale Medium 4 x 1000 g;63.16;3.0;4000.0;g;0.01579;beans;False;la place
+La Place Koffiebonen Lungo Intenso 1 KG;15.79;3.0;1000.0;g;0.01579;beans;False;la place
+LOR Espresso Lungo Profondo Gemalen Koffie 20 Stuks 104 g;7.79;3.0;20.0;st;0.0556428571428571;ground;False;lor
+Jumbos Beste Koffie Snelfiltermaling Aroma 500 g;6.99;3.0;500.0;g;0.01398;filter;False;jumbo
+Senseo Classic Coffee Pads 36 Stuks 250 g;6.29;3.0;36.0;st;0.0249603174603174;pads;False;senseo
+Douwe Egberts Aroma Rood Koffiebonen 500 g;8.99;3.0;500.0;g;0.01798;beans;False;douwe egberts
+Douwe Egberts Lungo 6 Original Gemalen Koffie 20 Capsules 104g;5.79;3.0;20.0;capsules;0.0413571428571428;capsule;False;douwe egberts
+La Place Koffiecups Espresso Intenso 10 Stuks;2.99;3.0;10.0;st;0.0427142857142857;cups;False;la place
+Douwe Egberts Aroma Rood Koffiepads Familiepak 54 Stuks 375 g;8.79;4.0;54.0;st;0.0232539682539682;pads;False;douwe egberts
+Douwe Egberts Aroma Rood Oploskoffie 200 g;7.49;4.0;200.0;g;0.03745;instant;False;douwe egberts
+Lavazza QualitA  Rossa koffiebonen 1kg;20.89;4.0;1000.0;g;0.02089;beans;False;lavazza
+LOR Espresso Lungo Estremo Ground Coffee 20 Stuks 104 g;7.79;4.0;20.0;st;0.0556428571428571;ground;False;lor
+Jumbos Koffiepads Classic 36 Stuks;4.99;4.0;36.0;st;0.0198015873015873;pads;False;jumbo
+Lavazza Crema e Gusto koffiebonen 1 kg;20.89;4.0;1000.0;g;0.02089;beans;False;lavazza
+Jumbo Koffiepads Dark Roast 56 Stuks 386,4 g;6.99;4.0;56.0;st;0.0178316326530612;pads;False;jumbo
+Jumbos Lungo Intenso Koffiecups 40 Stuks;8.69;4.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Jumbos Koffiepads Mokka 56 Stuks;6.59;4.0;56.0;st;0.0168112244897959;pads;False;jumbo
+Douwe Egberts Aroma Rood Filterkoffie 250 g;4.45;4.0;250.0;g;0.0178;filter;False;douwe egberts
+Douwe Egberts Aroma Rood Grove Maling Filterkoffie 500 g;8.15;4.0;500.0;g;0.0163;filter;False;douwe egberts
+LOR Espresso Ristretto Ground Coffee 20 Stuks 104 g;7.79;4.0;20.0;st;0.0556428571428571;ground;False;lor
+Jumbos Beste Koffiebonen Crema 4 x 1 kg;51.96;5.0;4000.0;g;0.01299;beans;False;jumbo
+Jumbos Dolce Gusto Lungo Koffiecups 30 Stuks;6.99;5.0;30.0;st;0.0332857142857142;capsule;False;jumbo
+La Place Koffiebonen Ristretto 1 kg;15.79;5.0;1000.0;g;0.01579;beans;False;la place
+NESCAFA Dolce Gusto, Koffie Espresso Intenso, 30 capsules, 210 gr;8.99;5.0;30.0;capsules;0.0428095238095238;capsule;False;nescafe
+Jumbo Koffiefilters No. 4 Ongebleekt 100 Stuks;0.85;5.0;100.0;st;0.0012142857142857;filter;False;jumbo
+LOR Espresso Supremo Gemalen Koffie 20 Stuks 104 g;7.79;5.0;20.0;st;0.0556428571428571;ground;False;lor
+Douwe Egberts DA(c)cafA(c) Filterkoffie 500 g;9.45;5.0;500.0;g;0.0189;filter;False;douwe egberts
+La Place Koffiebonen Lungo Dark 1KG;15.79;5.0;1000.0;g;0.01579;beans;False;la place
+Jumbos Espresso Forte Koffiecups 40 Stuks;8.69;5.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Lavazza QualitA  Oro koffiebonen 500 g;15.99;5.0;500.0;g;0.03198;beans;False;lavazza
+NescafA(c) Gold Crema Oploskoffie 100g;4.99;5.0;100.0;g;0.0499;instant;False;nescafe
+Smit & Dorlas Classic Roast Koffiecups 10 Stuks;3.99;6.0;10.0;st;0.057;cups;False;smit and dorlas
+Jumbos Espresso Superlativo Koffiecups 40 Stuks;8.69;6.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Segafredo Zanetti Intermezzo Koffiebonen 1000 g;18.89;6.0;1000.0;g;0.01889;beans;False;segafredo
+Jumbos Beste Koffie Snelfiltermaling Aroma 250 g;3.99;6.0;250.0;g;0.01596;filter;False;jumbo
+La Place Koffiecups Espresso Fortissimo 10 Stuks;2.99;6.0;10.0;st;0.0427142857142857;cups;False;la place
+Kanis & Gunnink Dark Roast Koffiepads 36 stuks;4.69;6.0;36.0;st;0.0186111111111111;pads;False;kanis en gunnink
+La Place Koffiebonen Dolce 1 kg;15.79;6.0;1000.0;g;0.01579;beans;False;la place
+NescafA(c) 3in1 Oploskoffie - 10 Stuks;2.79;6.0;10.0;st;0.0398571428571428;instant;False;nescafe
+Douwe Egberts Aroma Rood Donker Filterkoffie 500 g;8.39;6.0;500.0;g;0.01678;filter;False;douwe egberts
+Lavazza Espresso Barista Intenso koffiebonen 500g;15.79;7.0;500.0;g;0.03158;beans;False;lavazza
+Senseo Espresso Coffee Pads 36 Stuks 250 g;6.49;7.0;36.0;st;0.0257539682539682;pads;False;senseo
+Jumbos Koffiepads Mild 56 Stuks;6.59;7.0;56.0;st;0.0168112244897959;pads;False;jumbo
+Jumbos Espresso Ultimo Koffiecups 40 Stuks;8.69;7.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Douwe Egberts Lungo 6 Original Gemalen Koffie 45 + 5 Capsules Gratis 260 g;12.59;7.0;50.0;capsules;0.0359714285714285;capsule;False;douwe egberts
+Jumbos Ristretto Extra Forte Koffiecups 40 Stuks;8.69;7.0;40.0;st;0.0310357142857142;cups;False;jumbo
+StarbucksA(r) Pike Place Medium Roast koffiebonen 450 gram;12.69;7.0;450.0;g;0.0282;beans;False;starbucks
+NESCAFA Dolce Gusto, Koffie Grande, 30 capsules, 255 gr;8.99;8.0;30.0;capsules;0.0428095238095238;capsule;False;nescafe
+Douwe Egberts Excellent Gold Koffiebonen 1000 g;19.79;8.0;1000.0;g;0.01979;beans;False;douwe egberts
+Douwe Egberts Aroma Rood Grove Maling Filterkoffie 250 g;4.45;8.0;250.0;g;0.0178;filter;False;douwe egberts
+Senseo Extra Strong Coffee Pads 36 Stuks 250 g;6.29;8.0;36.0;st;0.0249603174603174;pads;False;senseo
+Jumbos Beste Koffiebonen Decaf 500 g;7.99;8.0;500.0;g;0.01598;beans;False;jumbo
+Douwe Egberts Intens Koffiebonen 1000 g;15.99;8.0;1000.0;g;0.01599;beans;False;douwe egberts
+CafA(c) IntenciA3n Aromatico 250 g filterkoffie;6.19;8.0;250.0;g;0.02476;filter;False;cafe intencin
+Jumbos Beste Koffie Grove Filtermaling Aroma 500 g;6.99;9.0;500.0;g;0.01398;filter;False;jumbo
+Douwe Egberts Verwenkoffie Latte Caramel oploskoffie 8 stuks;3.09;9.0;8.0;st;0.0551785714285714;instant;False;douwe egberts
+Senseo Strong Coffee Pads 36 Stuks 250 g;6.29;9.0;36.0;st;0.0249603174603174;pads;False;senseo
+Jumbos Dolce Gusto Cappuccino Koffiecups 2 x 15 Stuks;6.99;9.0;30.0;st;0.0332857142857142;capsule;False;jumbo
+Kanis & Gunnink Regular Koffiepads 36 stuks;4.69;9.0;36.0;st;0.0186111111111111;pads;False;kanis en gunnink
+Senseo Decaf Coffee Pads 36 Stuks 250 g;6.29;9.0;36.0;st;0.0249603174603174;pads;False;senseo
+Smit & Dorlas Classic Roast Koffiebonen 500 g;9.79;10.0;500.0;g;0.0195799999999999;beans;False;smit and dorlas
+Senseo Extra Strong Coffee Pads Maxi Pack 54 Stuks 375 g;8.99;10.0;54.0;st;0.0237830687830687;pads;False;senseo
+Douwe Egberts Aroma Rood Sticks Oploskoffie 25 stuks;3.09;10.0;25.0;st;0.0176571428571428;instant;False;douwe egberts
+Lavazza lavazza Rossa gemalen / filterkoffie 250 g;6.19;10.0;250.0;g;0.02476;ground;False;lavazza
+Lavazza Espresso Barista Perfetto koffiebonen 500 g;15.79;10.0;500.0;g;0.03158;beans;False;lavazza
+La Place Koffiecups Lungo Originale 10 Stuks;2.99;10.0;10.0;st;0.0427142857142857;cups;False;la place
+LOR Espresso Forza Ground Coffee 20 Stuks 104 g;7.79;10.0;20.0;st;0.0556428571428571;ground;False;lor
+Douwe Egberts Intens Koffiepads Familiepak 54 Stuks 375 g;8.79;11.0;54.0;st;0.0232539682539682;pads;False;douwe egberts
+LOR Espresso Fortissimo Koffiebonen 500 g;11.89;11.0;500.0;g;0.02378;beans;False;lor
+Jumbos Lungo Koffiecups 16 Stuks;4.25;11.0;16.0;st;0.0379464285714285;cups;False;jumbo
+Kanis & Gunnink Decaf Filterkoffie 500 g;6.99;11.0;500.0;g;0.01398;filter;False;kanis en gunnink
+NescafA(c) Gold Oploskoffie 50 g;3.69;11.0;50.0;g;0.0738;instant;False;nescafe
+Jumbos Koffiepads Extra Dark 36 Stuks;4.99;12.0;36.0;st;0.0198015873015873;pads;False;jumbo
+Senseo Gold Koffiepads 36 Stuks 250 g;6.59;12.0;36.0;st;0.0261507936507936;pads;False;senseo
+Jumbos Beste Koffie Snelfiltermaling Dark Roast 500 g;6.99;12.0;500.0;g;0.01398;filter;False;jumbo
+NescafA(c) Wiener Melange Family oploskoffie 20 koppen - 280g;3.99;12.0;280.0;g;0.01425;instant;False;nescafe
+Jumbo Goud Oploskoffie 100 g;3.0;12.0;100.0;g;0.03;instant;False;jumbo
+Jumbos Beste Koffie Snelfiltermaling Decaf 250 g;4.69;12.0;250.0;g;0.01876;filter;False;jumbo
+NescafA(c) Gold Oploskoffie 25 Stuks;3.0;12.0;25.0;st;0.0171428571428571;instant;False;nescafe
+LOR Espresso Estremo Coffee Beans 500 g;11.89;12.0;500.0;g;0.02378;other;False;lor
+Jumbos Koffiepads Mokka 36 Stuks;4.99;12.0;36.0;st;0.0198015873015873;pads;False;jumbo
+illy Classico Coffee Beans 250 g;7.99;12.0;250.0;g;0.03196;other;False;illy
+Crema e Gusto Classico koffiebonen 1kg;20.99;13.0;1000.0;g;0.0209899999999999;beans;False;crema e gusto
+LOR Espresso Supremo Roasty & Sweet Coffee Beans 500 g;11.89;13.0;500.0;g;0.02378;other;False;lor
+LOR Espresso Splendente Ground Coffee 20 Stuks 104 g;7.79;13.0;20.0;st;0.0556428571428571;ground;False;lor
+Senseo Mocca Gourmet Coffee Pads 36 Stuks 250 g;6.29;13.0;36.0;st;0.0249603174603174;pads;False;senseo
+Douwe Egberts MildcafA(c) Filterkoffie 250 g;4.99;13.0;250.0;g;0.01996;filter;False;douwe egberts
+Douwe Egberts Excellent Blonde Koffiebonen 500 g;10.99;14.0;500.0;g;0.02198;beans;False;douwe egberts
+Jumbos Koffiepads Dark Roast 36 Stuks;4.99;14.0;36.0;st;0.0198015873015873;pads;False;jumbo
+Lavazza lavazza Oro gemalen / filterkoffie 250 g;7.59;14.0;250.0;g;0.0303599999999999;ground;False;lavazza
+Jumbos CafA(c) au Lait Koffiecups 16 Stuks;4.69;14.0;16.0;st;0.041875;cups;False;jumbo
+NescafA(c) 3in1 Oploskoffie 8 x 10 Stuks;22.32;14.0;80.0;st;0.0398571428571428;instant;False;nescafe
+Segafredo Zanetti Selezione Espresso Koffiebonen 500 g;10.99;15.0;500.0;g;0.02198;beans;False;segafredo
+Melitta Original Koffiefilters 1x4 Bruin 80 stuks;2.62;15.0;80.0;st;0.0046785714285714;filter;False;melitta
+Jumbos Espresso Koffiecups 16 Stuks;4.25;15.0;16.0;st;0.0379464285714285;cups;False;jumbo
+Lavazza Espresso Italiano Classico gemalen / filterkoffie 250 g;6.39;15.0;250.0;g;0.02556;ground;False;lavazza
+Melitta Original koffiefilters 1x6 Bruin 40 stuks;1.59;15.0;40.0;st;0.0056785714285714;filter;False;melitta
+Jumbos Lungo Intenso Koffiecups 16 Stuks;4.69;15.0;16.0;st;0.041875;cups;False;jumbo
+Douwe Egberts DA(c)cafA(c) Filterkoffie 250 g;4.99;15.0;250.0;g;0.01996;filter;False;douwe egberts
+Jumbo Biologisch Medium Gebrande Koffiepads 36 Stuks;3.99;16.0;36.0;st;0.0158333333333333;pads;False;jumbo
+LOR Espresso Origins Brazil Koffiebonen 500 g;11.99;16.0;500.0;g;0.02398;beans;False;lor
+LOR Espresso Origins Colombia Koffiebonen 500 g;11.99;16.0;500.0;g;0.02398;beans;False;lor
+Kanis & Gunnink CafeA-nevrije Koffiepads 36 Stuks;4.79;16.0;36.0;st;0.0190079365079365;pads;False;kanis en gunnink
+"Lavazza CaffA"" Dek Classico (decaf) gemalen / filterkoffie 250 g";5.99;16.0;250.0;g;0.02396;ground;False;lavazza
+StarbucksA(r) BlondeA(r) Espresso Roast koffiebonen 450 gram;12.69;16.0;450.0;g;0.0282;beans;False;starbucks
+Senseo Mild Coffee Pads 36 Stuks 250 g;6.29;17.0;36.0;st;0.0249603174603174;pads;False;senseo
+Senseo Italian Style Forte Coffee Pads Gemalen Koffie 36 Stuks 250 g;6.59;17.0;36.0;st;0.0261507936507936;ground;False;senseo
+Douwe Egberts Verwenkoffie Cappuccino oploskoffie 10 stuks;3.09;17.0;10.0;st;0.0441428571428571;instant;False;douwe egberts
+Douwe Egberts Espresso Sticks Oploskoffie 25 Stuks;3.09;18.0;25.0;st;0.0176571428571428;instant;False;douwe egberts
+StarbucksA(r) Espresso Dark Roast koffiebonen 450 gram;12.69;18.0;450.0;g;0.0282;beans;False;starbucks
+Jumbos Koffiepads Mild 36 Stuks;4.99;18.0;36.0;st;0.0198015873015873;pads;False;jumbo
+Jumbo Espresso Oploskoffie 100 g;3.32;18.0;100.0;g;0.0332;instant;False;jumbo
+Senseo CafA(c) Latte Koffiepads 4 x 8 Stuks;13.56;19.0;32.0;st;0.0605357142857142;pads;False;senseo
+Douwe Egberts Intens Koffiebonen 500 g;8.99;19.0;500.0;g;0.01798;beans;False;douwe egberts
+Illy Arabica Selection Gebrande Koffiebonen Brasile 250g;7.99;19.0;250.0;g;0.03196;beans;False;illy
+Melitta Original Koffiefilters 100 Bruin 40 stuks;0.79;19.0;40.0;st;0.0028214285714285;filter;False;melitta
+Senseo Cappuccino Choco Koffiepads 8 Stuks;3.39;20.0;8.0;st;0.0605357142857142;pads;False;senseo
+Jumbos Lungo Grande Koffiecups 16 Stuks;4.69;20.0;16.0;st;0.041875;cups;False;jumbo
+Illy Lungo Classico Koffiecups 10 stuks;5.49;20.0;10.0;st;0.0784285714285714;cups;False;illy
+Douwe Egberts Half CafeA-ne Filterkoffie 250 g;5.29;20.0;250.0;g;0.02116;filter;False;douwe egberts
+illy Intenso Filterkoffie 250 g;7.99;21.0;250.0;g;0.03196;filter;False;illy
+La Place Lungo Intenso Koffiecups 10 Stuks;2.99;21.0;10.0;st;0.0427142857142857;cups;False;la place
+Lavazza Espresso Decafe koffiecups 10 stuks;4.59;21.0;10.0;st;0.0655714285714285;cups;False;lavazza
+illy Espresso Classico Koffiecups 10 Stuks;5.49;21.0;10.0;st;0.0784285714285714;cups;False;illy
+Starbucks by Nespresso Single-Origin Coffee Guatemala 10 Stuks 52 g;4.69;21.0;10.0;st;0.067;capsule;False;starbucks
+Senseo Cappuccino Koffiepads 8 Stuks 92 g;2.0;21.0;8.0;st;0.0357142857142857;pads;False;senseo
+Jumbo Espresso Koffiecups Biologisch 10 Stuks;3.49;22.0;10.0;st;0.0498571428571428;cups;False;jumbo
+La Place Koffiecups BraziliA<< 10 Stuks;3.04;22.0;10.0;st;0.0434285714285714;cups;False;la place
+La Place Koffiecups Lungo Dolce 10 Stuks;2.99;22.0;10.0;st;0.0427142857142857;cups;False;la place
+La Place Koffiecups Colombia 10 Stuks;2.99;22.0;10.0;st;0.0427142857142857;cups;False;la place
+Smit & Dorlas Koffiebonen Mild Roast 500 g;9.79;22.0;500.0;g;0.0195799999999999;beans;False;smit and dorlas
+Jumbo Koffiefilters No. 2 Ongebleekt 100 Stuks;0.89;22.0;100.0;st;0.0012714285714285;filter;False;jumbo
+Wayang Premium Coffee Beans Indonesia 500 g;10.89;23.0;500.0;g;0.02178;other;False;wayang
+Lavazza Espresso Italiano Classico filterkoffie blik 250g;5.99;23.0;250.0;g;0.02396;filter;False;lavazza
+Simon LA(c)velt Masterblend Supreme Gemalen Koffie in Capsules 10 Stuks 57 g;4.89;23.0;10.0;st;0.0698571428571428;capsule;False;simon levelt
+illy Intenso Bold Roast Coffee Beans 250 g;7.99;23.0;250.0;g;0.03196;other;False;illy
+La Place Koffiecups Ristretto 10 Stuks;2.99;23.0;10.0;st;0.0427142857142857;cups;False;la place
+NescafA(c) Original oploskoffie 33 koppen - 50 g;2.69;23.0;50.0;g;0.0538;instant;False;nescafe
+Lavazza Espresso Intenso koffiecups 30st;12.79;23.0;30.0;st;0.0609047619047619;cups;False;lavazza
+QualitA  Rossa koffiecups 10st;4.89;23.0;10.0;st;0.0698571428571428;cups;False;lavazza
+La Place Koffiecups Lungo Dark 10 Stuks;2.99;23.0;10.0;st;0.0427142857142857;cups;False;la place
+Simon LA(c)velt Masterblend Smooth Gemalen Koffie in Capsules 10 Stuks 57 g;4.89;24.0;10.0;st;0.0698571428571428;capsule;False;simon levelt
+NescafA(c) Dolce Gusto Verwen Koffie Cups 3 x 16 Stuks;17.97;24.0;48.0;st;0.0534821428571428;capsule;False;nescafe
+illy Espresso Decaffeinato Koffiecups 10 Stuks;5.49;25.0;10.0;st;0.0784285714285714;cups;False;illy
+Epic Coffee Espresso Koffiecups 20 Stuks;3.99;25.0;20.0;st;0.0285;cups;False;epic
+Jacqmotte Creations Koffiebonen Moka Absolu 500 g;9.49;25.0;500.0;g;0.01898;beans;False;jacqmotte
+illy Lungo Intenso Koffiecups 10 Stuks;5.49;25.0;10.0;st;0.0784285714285714;cups;False;illy
+Cornelissen Coffeeroasters Sweet & Rich Ethiopian Medium Roast Filter Koffie 250 g;6.69;26.0;250.0;g;0.02676;filter;False;cornelissen
+Roots Koffiecups Extra Dark Roast 10 Stuks;3.99;26.0;10.0;st;0.057;cups;False;roots
+Epic Coffee Lungo Dark koffiecups 20 Stuks;3.99;26.0;20.0;st;0.0285;cups;False;epic
+StarbucksA(r) Single-Origin Colombia Medium Roast Koffiebonen 450 g;12.69;27.0;450.0;g;0.0282;beans;False;starbucks
+illy Espresso Forte Koffiecups 10 Stuks;5.49;27.0;10.0;st;0.0784285714285714;cups;False;illy
+Smit & Dorlas Extra Dark Roast Koffiecups 10 Stuks;3.99;27.0;10.0;st;0.057;cups;False;smit and dorlas
+La Place Koffiecups Cappuccino 10 Stuks;2.99;27.0;10.0;st;0.0427142857142857;cups;False;la place
+CafA(c) IntenciA3n Fuerte Filterkoffie 250 g;6.19;27.0;250.0;g;0.02476;filter;False;cafe intencin
+Epic Coffee Espresso Dark Koffiecups 20 Stuks;3.99;27.0;20.0;st;0.0285;cups;False;epic
+"CaffA"" Perrucci Koffie Latte Vanilla 16 Stuks 164 g";3.99;27.0;16.0;st;0.035625;other;False;caffe perrucci
+Crema e Gusto Classico filterkoffie 250g;6.99;27.0;250.0;g;0.02796;filter;False;crema e gusto
+Segafredo Zanetti Selezione Crema Koffiebonen 500 g;10.99;27.0;500.0;g;0.02198;beans;False;segafredo
+nan;;;;;;nan;;nan
+La Place Koffiecups Espresso 10 Stuks;2.99;28.0;10.0;st;0.0427142857142857;cups;False;la place
+QualitA  Oro koffiecups 10st;4.89;28.0;10.0;st;0.0698571428571428;cups;False;lavazza
+Specialty Brasil Yellow Bourbon Filter Coffee Dark 250 g;5.55;28.0;250.0;g;0.0222;filter;False;brasil yellow bourbon
+Epic Coffee Lungo Koffiecups 20 Stuks;3.99;28.0;20.0;st;0.0285;cups;False;epic
+Simon LA(c)velt Masterblend Sparkle Gemalen Koffie in Capsules 10 Stuks 55 g;4.89;29.0;10.0;st;0.0698571428571428;capsule;False;simon levelt
+Senseo CafA(c) Latte Vanilla Koffiepads 8 Stuks;3.39;29.0;8.0;st;0.0605357142857142;pads;False;senseo
+Melitta Original koffiefilters 1x4 Wit 80 stuks;2.76;29.0;80.0;st;0.0049285714285714;filter;False;melitta
+Jumbos Beste Koffie Snelfiltermaling Mokka 250 g;4.69;29.0;250.0;g;0.01876;filter;False;jumbo
+Jumbos Beste Koffie Snelfiltermaling Mild 250 g;4.69;30.0;250.0;g;0.01876;filter;False;jumbo
+Roots Koffiecups Medium Roast 10 Stuks;3.99;31.0;10.0;st;0.057;cups;False;roots
+nan;;;;;;nan;;nan
+Zonnatura Bio Meergranen Koffie 100 g;3.59;31.0;100.0;g;0.0359;other;False;zonnatura
+Crema e Gusto Classico koffiecups 10stuks;4.89;31.0;10.0;st;0.0698571428571428;cups;False;douwe egberts
+Roots Koffiecups Dark Roast 10 Stuks;3.99;32.0;10.0;st;0.057;cups;False;roots
+Senseo Cappuccino Caramel Koffiepads 8 Stuks;3.39;32.0;8.0;st;0.0605357142857142;pads;False;senseo
+Smit & Dorlas Dark Roast Koffiecups 10 Stuks;3.99;33.0;10.0;st;0.057;cups;False;smit and dorlas
+Senseo Typ CafA(c) Latte Koffiepads 8 Stuks 92 g;3.39;33.0;8.0;st;0.0605357142857142;pads;False;senseo
+Senseo Classic Koffiepads 54 Stuks Maxi Pack 375 g;5.0;34.0;54.0;st;0.0132275132275132;pads;False;senseo
+LOR Crema Classique Koffiebonen 500 g;11.89;34.0;500.0;g;0.02378;beans;False;lor
+LOR Espresso Forza Koffiebonen 500 g;11.89;34.0;500.0;g;0.02378;beans;False;lor
+Jumbos Lungo Decaffeinato Koffiecups 40 Stuks;8.69;34.0;40.0;st;0.0310357142857142;cups;False;jumbo
+Douwe Egberts Excellent Black Koffiebonen 500 g;10.99;34.0;500.0;g;0.02198;beans;False;douwe egberts
+LOR Espresso Onyx Koffiebonen 500 g;11.89;34.0;500.0;g;0.02378;beans;False;lor
+La Place Koffiecups Lungo Decaffeinato 10 Stuks;2.99;34.0;10.0;st;0.0427142857142857;cups;False;la place
